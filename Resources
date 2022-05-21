@@ -1,6 +1,16 @@
 <html>
 <head>
-<title></title>
+<title>Resources</title>
+<style>
+
+a:hover{color:red;}
+a{color: blue;}
+.rainforest{
+height: 128px; 
+length: 256px;
+}
+
+</style>
 </head>
 
 <body>
@@ -9,4 +19,12 @@
 
 <h3>Here are a few resources for where to learn more about climate change and of how to help:</h3>
 <ul>
-  <li><a href="https://climate.nasa.gov/solutions/adaptation-mitigation/" target="_blank">nasa.gov</a>
+  <li><a href="https://climate.nasa.gov/solutions/adaptation-mitigation/" target="_blank">nasa.gov</a></li>
+  <li><a href=""></a></li>
+</ul>
+<h3>Here is a list of charities that help fight this climate crisis:</h3>
+<ul>
+	<li><a href="https://www.rainforestcoalition.org/donate/#:~:text=Donation%20Options,%2C%20nonprofit%20(501c3)%20organization" target="_blank">Coalition for Rainforest Nations</a> is an organization dedicated to creating long-lasting solutions for environmental sustainability. As their name implies, they focus on helping save the rainforests from changing environments. </li> <img class="rainforest" src="https://www.rainforestcoalition.org/wp-content/uploads/2021/04/CfRN_SocialShare_TWITTER_1024x512.jpg" alt="Coalition for Rainforest Nations"></img>
+	<li><a href="https://www.climateemergencyfund.org/tell-the-truth">Climate Emergency Fund</a> is a fund that helps activists be able to peacefully protest and help stop climate change. They get money from donations and then fund climate activists who are working to change political policies.</li>
+</ul>
+<p>For more information on charities and organizations, visit <a href="https://www.tomorrow.io/weather/blog/most-influential-climate-charities-to-donate/" target="_blank">tomrrow.io</a>.</p>

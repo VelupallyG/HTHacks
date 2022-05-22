@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>What You Can Do</title>
+	<style>
+a{color:blue;}
+a:hover{color:red;}
+img{
+position:relative;
+left: 700px; 
+bottom: 150px;
+height: 300px;
+length: 195px;
+}
+  .climate {
+    height: 40px;
+    width: 25%;
+    margin: 50px auto;
+    border-radius: 5px;
+    position: relative;
+    color:red;
+    text-align: center;
+    font-size: 25px;
+  }
+#climate{
+    animation-name: climatestuff;
+    animation-duration: 4s;
+    animation-iteration-count:infinite;
+}
+@keyframes climatestuff{
+0%{background-color: blue; top: 25px;}
+50%{top: 75px; background-color: yellow;}
+80%{background-color: green; top:25px;}
+100%{background-color: blue; top: 25px;}
+}
+</style>
+</head>
+<body>
+<h1>What you can do to help stop the climate crisis</h1>
+<a href="index.html">Home</a> &nbsp&nbsp&nbsp&nbsp <a href="resources.html">Resources</a> &nbsp&nbsp&nbsp&nbsp <a href="whattodo.html">What To Do</a> &nbsp&nbsp&nbsp&nbsp <a href="game.html">Game</a>
+<h3>Here are just a few ideas:</h3>
+<ol>
+	<li>Take shorter showers</li>
+	<li>Buy a bicycle (if possible)</li>
+	<li>Use an electric car (if possible)</li>
+	<li>Don't waste <a href="https://en.wikipedia.org/wiki/Food" target="_blank">food</a>; only buy as much as you will eat</li>
+	<li>Vote for politicians who want to help solve this issue</li>	
+</ol>
+<img src="i-want-you-giwy.jpg" alt="I want you"></img>
+
+<div id="climate" class="climate"><p>You've got to save the environment</p></div>
+
+<p>Visit <a href="https://www.nrdc.org/stories/how-you-can-stop-global-warming" target="blank">nrdc.org</a> to find out more on what you can do to help stop climate change.</p>
+</body>
+</html>

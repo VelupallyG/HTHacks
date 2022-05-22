@@ -33,5 +33,3 @@ unity
 w3-spaces
 Try it out
  climateordiemate.w3spaces.com
- GitHub Repo
- docs.google.com

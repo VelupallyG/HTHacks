@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 
 <head>
@@ -49,10 +49,23 @@ length: 195px;
 	<li>Don't waste <a href="https://en.wikipedia.org/wiki/Food" target="_blank">food</a>; only buy as much as you will eat</li>
 	<li>Vote for politicians who want to help solve this issue</li>	
 </ol>
-<img src="i-want-you-giwy.jpg" alt="I want you"></img>
+<img src="https://cdn.discordapp.com/attachments/977578341777416222/977907285978386512/i-want-you-giwy.jpg" alt="I want you"></img>
 
 <div id="climate" class="climate"><p>You've got to save the environment</p></div>
 
+<h2>
+
+5 R's:
+REUSE : 
+RECYCLE : 
+REFUSE :
+RECOLLECT : 
+REDUCE
+
+</h2>
+
+
 <p>Visit <a href="https://www.nrdc.org/stories/how-you-can-stop-global-warming" target="blank">nrdc.org</a> to find out more on what you can do to help stop climate change.</p>
+<h3>This project was created for High Tech Hacks 2022.</h3>
 </body>
 </html>

@@ -1,62 +1,31 @@
-<!DOCTYPE html>
 <html>
-
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>Resources</title>
-	<style>
-		a:hover {
-			color: red;
-		}
+<title>Resources</title>
+<style>
 
-		a {
-			color: blue;
-		}
+a:hover{color:red;}
+a{color: blue;}
+.rainforest{
+height: 128px; 
+length: 256px;
+}
 
-		.rainforest {
-			height: 128px;
-			length: 256px;
-		}
-
-		.emergencyfund {
-			height: 135px;
-			length: 240px;
-		}
-	</style>
+</style>
 </head>
 
 <body>
-	<h1>Resources</h1>
-	<h3>Here are a few resources for where to learn more about climate change and of how to help:</h3>
-	<ul>
-		<li><a href="https://climate.nasa.gov/solutions/adaptation-mitigation/" target="_blank">nasa.gov</a></li>
-		<li><a
-				href="https://www.un.org/en/climatechange/what-is-climate-change#:~:text=Climate%20change%20refers%20to%20long,like%20coal%2C%20oil%20and%20gas."
-				target="blank">un.org</a></li>
-		<li><a href="https://www.nrdc.org/stories/global-climate-change-what-you-need-know" target="blank">nrdc.org</a></li>
-	</ul>
-	<h3>Here is a list of charities that help fight this climate crisis:</h3>
-	<ul>
-		<li><a
-				href="https://www.rainforestcoalition.org/donate/#:~:text=Donation%20Options,%2C%20nonprofit%20(501c3)%20organization"
-				target="_blank">Coalition for Rainforest Nations</a> is an organization dedicated to creating long-lasting
-			solutions for environmental sustainability. As their name implies, they focus on helping save the rainforests from
-			changing environments. </li> <img class="rainforest" alt="coalition for rainforest nations"
-			src="https://www.rainforestcoalition.org/wp-content/uploads/2021/04/CfRN_SocialShare_TWITTER_1024x512.jpg"
-			alt="Coalition for Rainforest Nations"></img>
-		<li><a href="https://www.climateemergencyfund.org/tell-the-truth">Climate Emergency Fund</a> is a fund that helps
-			activists be able to peacefully protest and help stop climate change. They get money from donations and then fund
-			climate activists who are working to change political policies.</li> <img
-			src="https://givingcompass.org/wp-content/uploads/2021/11/ad9cb30a-4a88-11ec-a3c6-02074da7a271.png"
-			alt="Climate Emergency Fund" class="emergencyfund"></img>
-	</ul>
-	<p>For more information on charities and organizations, visit <a
-			href="https://www.tomorrow.io/weather/blog/most-influential-climate-charities-to-donate/"
-			target="_blank">tomorrow.io</a>.</p>
+<h1>Resources</h1>
+<a href="index.html">Home</a> &nbsp&nbsp&nbsp&nbsp <a href="resources.html">Resources</a> &nbsp&nbsp&nbsp&nbsp <a href="whattodo.html">What To Do</a> &nbsp&nbsp&nbsp&nbsp <a href="game.html">Game</a><br>
 
-
-
-</body>
-
-</html>
+<h3>Here are a few resources for where to learn more about climate change and of how to help:</h3>
+<ul>
+  <li><a href="https://climate.nasa.gov/solutions/adaptation-mitigation/" target="_blank">nasa.gov</a></li>
+  <li><a href="https://www.un.org/en/climatechange/what-is-climate-change#:~:text=Climate%20change%20refers%20to%20long,like%20coal%2C%20oil%20and%20gas." target="blank">un.org</a></li>
+  <li><a href="https://www.nrdc.org/stories/global-climate-change-what-you-need-know" target="blank">nrdc.org</a></li>
+</ul>
+<h3>Here is a list of charities that help fight this climate crisis:</h3>
+<ul>
+	<li><a href="https://www.rainforestcoalition.org/donate/#:~:text=Donation%20Options,%2C%20nonprofit%20(501c3)%20organization" target="_blank">Coalition for Rainforest Nations</a> is an organization dedicated to creating long-lasting solutions for environmental sustainability. As their name implies, they focus on helping save the rainforests from changing environments. </li> <img class="rainforest" alt="coalition for rainforest nations" src="https://www.rainforestcoalition.org/wp-content/uploads/2021/04/CfRN_SocialShare_TWITTER_1024x512.jpg" alt="Coalition for Rainforest Nations"></img>
+	<li><a href="https://www.climateemergencyfund.org/tell-the-truth">Climate Emergency Fund</a> is a fund that helps activists be able to peacefully protest and help stop climate change. They get money from donations and then fund climate activists who are working to change political policies.</li>
+</ul>
+<p>For more information on charities and organizations, visit <a href="https://www.tomorrow.io/weather/blog/most-influential-climate-charities-to-donate/" target="_blank">tomorrow.io</a>.</p>

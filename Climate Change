@@ -37,6 +37,8 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+a{color:blue;}
+a:hover{color:red;}
 </style>
  </head>
 <body>
